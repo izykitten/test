@@ -1,2 +1,2 @@
 FROM nginx:latest
-#RUN apk add --no-cache
+#RUN apk add --no-cache 
